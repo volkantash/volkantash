@@ -1,4 +1,15 @@
-### Hi there 👋
+### Üstünüze selâm! 👋
+Üstüme iyilik sağlık... Bu selâm verme yeni mi çıktı? 🤔
+
+**Bildiğim birkaç neŋ şöyle:**
+
+HTML  
+CSS  
+JS  
+Python  
+Python: Django  
+Jekyll  
+Karamel  
 
 <!--
 **volkantash/volkantash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
