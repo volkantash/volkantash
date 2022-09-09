@@ -5,15 +5,15 @@
 <table>
     <tr>
         <td align=right>Kazak Türkçesi</td>
-        <td>👋😊 Үстіңiзге сәлемтер! Мен Волкан TAŞ</td>
+        <td align=left>👋😊 Үстіңiзге сәлемтер! Мен Волкан TAŞ</td>
     </tr>
     <tr>
         <td align=right>Türkmen Türkçesi</td>
-        <td>👋😊 Üstüňüze salamlar! Men Wolkan TAŞ</td>
+        <td align=left>👋😊 Üstüňüze salamlar! Men Wolkan TAŞ</td>
     </tr>
     <tr>
         <td align=right>ABD İngilizcesi</td>
-        <td>👋😊 Hi to you! I'm Volcaun TASH</td>
+        <td align=left>👋😊 Hi to you! I'm Volcaun TASH</td>
     </tr>
 </table>
 </div>  
