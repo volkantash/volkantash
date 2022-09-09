@@ -1,22 +1,30 @@
-<h1 align=center>👋😊 Üstünüze selâmlar! Ben <a href="https://github.com/volkantash" target=blank>Volkan TAŞ</a> </h1>
+<h1 align=center>Üstünüze selâmlar! 👋😊 Ben <a href="https://github.com/volkantash" target=blank>Volkan TAŞ</a> </h1>
 
 <div align=center>
 
-|||
-|-:|:-|
-| Kazak Türkçesi | 👋😊 Үстіңiзге сәлемтер! Мен Волкан TAŞ  |  
-| Türkmen Türkçesi | 👋😊 Üstüňüze salamlar! Men Wolkan TAŞ  |
-| ABD İngilizcesi | 👋😊 Hi to you! I'm Volcaun TASH  |
-
+<table>
+    <tr>
+        <td align=right>Kazak Türkçesi</td>
+        <td>👋😊 Үстіңiзге сәлемтер! Мен Волкан TAŞ</td>
+    </tr>
+    <tr>
+        <td align=right>Türkmen Türkçesi</td>
+        <td>👋😊 Üstüňüze salamlar! Men Wolkan TAŞ</td>
+    </tr>
+    <tr>
+        <td align=right>ABD İngilizcesi</td>
+        <td>👋😊 Hi to you! I'm Volcaun TASH</td>
+    </tr>
+</table>
 </div>  
 
-
-Türkçe tabanlı yazılım programlama dilleri alanında işliyorum. Bana benim ile ilgili öğrenmek istediğiniz belli başlı soruları sorabilirsiniz. Birkaçını siz sormadan aşağıda öndüncene yanıtlayayım.
-
+Yazılım programlama dillerinin Türkçe olması uzun yıllardır kurduğum düşlerden biri iken artık bir gerçek. Büyük bir toplulukta bu işler ile uğraşıyorum.
+  
+Bana, benim ile ilgili öğrenmek istediğiniz belli başlı soruları sorabilirsiniz. Birkaçını siz sormadan aşağıda yanıtladım.
 
 ---  
 
-Endistriyel otomasyon alanınde eğitim öğretim geçmişimin olması yanında başka alanlar ile ilgili konularda bilgiliyim. Programlama dillerinin bir bölümünü iyi bilir iken bir bölümüne karşı çaylak kalıyorum. En iç burucu yanı ise bir bölümüne karşı şuncacık bilgim yok. Keşke gösterebilseydim.
+Endistriyel otomasyon alanında eğitim öğretim geçmişim vardır. Programlama dillerinin bir bölümünü iyi bilir iken bir bölümüne karşı çaylak kalırım.
 
 ## Bildiğim Diller
 
