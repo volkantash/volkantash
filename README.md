@@ -10,9 +10,12 @@ Endistriyel otomasyon alanınde eğitim öğretim geçmişimin olması yanında 
 
 ## Bildiğim Diller
 
-- ⭐⭐⭐⭐⭐ HTML  
-- ⭐⭐⭐⭐⭐ CSS  
-- ⭐⭐⭐⚪⚪ JS  
+- ⭐⭐⭐⭐⚪ HTML  
+- ⭐⭐⭐⭐⚪ CSS  
+- ⭐⭐⭐⭐⚪ SASS
+- ⭐⭐⭐⚪⚪ JS
+- ⭐⚪⚪⚪⚪ JQuery
+- ⭐⚪⚪⚪⚪ Vue  
 - ⭐⭐⚪⚪⚪ Python  
 - ⭐⭐⚪⚪⚪ Python: Django  
 - ⭐⭐⭐⭐⚪ Jekyll  
