@@ -1,12 +1,12 @@
-<h1 align=center>Üstünüze selâmlar! 👋😉 Ben <a href="https://github.com/volkantash" target=blank>Volkan TAŞ</a> </h1>
+<h1 align=center>👋😊 Üstünüze selâmlar! Ben <a href="https://github.com/volkantash" target=blank>Volkan TAŞ</a> </h1>
 
 <div align=center>
 
 |||
 |-:|:-|
-| Kazak Türkçesi | 👋😉 Үстіңiзге сәлемтер! Мен Волкан TAŞ  |  
-| Türkmen Türkçesi | 👋😉 Üstüňüze salamlar! Men Wolkan TAŞ  |
-| ABD İngilizcesi | 👋😉 Hi to you! I'm Volcaun TASH  |
+| Kazak Türkçesi | 👋😊 Үстіңiзге сәлемтер! Мен Волкан TAŞ  |  
+| Türkmen Türkçesi | 👋😊 Üstüňüze salamlar! Men Wolkan TAŞ  |
+| ABD İngilizcesi | 👋😊 Hi to you! I'm Volcaun TASH  |
 
 </div>  
 
