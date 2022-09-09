@@ -26,6 +26,12 @@ Endistriyel otomasyon alanınde eğitim öğretim geçmişimin olması yanında 
 - Türkçe Yazılım Konatı  
 - Deveb.css
 
+## Bilmenizi İstediğim Öteki Konular
+
+Türkçe ile yakından ilgileniyorum. Yabancı sözcüklere Türkçe karşılıklar bulup öneriler getiriyorum. Kazak Türkçesi, Uygur Türkçesi, Özbek Türkçesi, Kırgız Türkçesi, Türkmen Türkçesi, Azerbaycan Türkçesi, Türkiye Türkçesi başta olmak üzere Türkçenin lehçeleri ile içli dışlıyım. 
+
+Sözcüklerin kökenlerini araştırmayı severim. Köken bilgilerinden yararlanarak Türkçe karşılıklar öneririm. Yalnızca Türkçe karşılıklar üzerine emek vermek ile yetinmediğimiz de anmak isterim.
+
 Şimdilik bu bilgiler ile avunup yetinmeniz yaşamanızda olumsuz etki doğurmayacaktır.
 <!--
 **volkantash/volkantash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
