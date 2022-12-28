@@ -24,7 +24,7 @@ Bana, benim ile ilgili öğrenmek istediğiniz belli başlı soruları sorabilir
 
 ---  
 
-Endistriyel otomasyon alanında eğitim öğretim geçmişim vardır. Programlama dillerinin bir bölümünü iyi bilir iken bir bölümüne karşı çaylak kalırım.
+Endüstriyel otomasyon alanında eğitim öğretim geçmişim vardır. Programlama dillerinin bir bölümünü iyi bilir iken bir bölümüne karşı çaylak kalırım.
 
 ## Bildiğim Diller
 
