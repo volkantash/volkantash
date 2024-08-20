@@ -28,16 +28,17 @@ Endüstriyel otomasyon alanında eğitim öğretim geçmişim vardır. Programla
 
 ## Bildiğim Diller
 
-- ⭐⭐⭐⭐⚪ HTML  
-- ⭐⭐⭐⭐⚪ CSS  
+- ⭐⭐⭐⭐⭐ HTML  
+- ⭐⭐⭐⭐⭐ CSS  
 - ⭐⭐⭐⭐⚪ SASS
 - ⭐⭐⭐⚪⚪ JS
 - ⭐⚪⚪⚪⚪ JQuery
-- ⭐⚪⚪⚪⚪ Vue  
-- ⭐⭐⚪⚪⚪ Python  
-- ⭐⭐⚪⚪⚪ Python: Django  
+- ⭐⭐⚪⚪⚪ VueJS
+- ⭐⭐⭐⚪⚪ Python  
+- ⭐⭐⭐⚪⚪ Django
+- ⭐⭐⭐⚪⚪ Wagtail
+- ⭐⭐⚪⚪⚪ E-Ticaret
 - ⭐⭐⭐⭐⚪ Jekyll  
-- ⭐⭐⭐⚪⚪ Karamel  
 
 ## İşlediklerim
 
