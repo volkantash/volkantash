@@ -26,7 +26,7 @@ Bana, benim ile ilgili öğrenmek istediğiniz belli başlı soruları sorabilir
 
 Endüstriyel otomasyon alanında eğitim öğretim geçmişim vardır. Programlama dillerinin bir bölümünü iyi bilir iken bir bölümüne karşı çaylak kalırım.
 
-## Bildiğim Diller
+## Bildiğim Diller ve Araçlar
 
 - ⭐⭐⭐⭐⭐ HTML  
 - ⭐⭐⭐⭐⭐ CSS  
@@ -37,7 +37,6 @@ Endüstriyel otomasyon alanında eğitim öğretim geçmişim vardır. Programla
 - ⭐⭐⭐⚪⚪ Python  
 - ⭐⭐⭐⚪⚪ Django
 - ⭐⭐⭐⚪⚪ Wagtail
-- ⭐⭐⚪⚪⚪ E-Ticaret
 - ⭐⭐⭐⭐⚪ Jekyll  
 
 ## İşlediklerim
