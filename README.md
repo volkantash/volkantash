@@ -13,7 +13,7 @@
     </tr>
     <tr>
         <td align=right>ABD İngilizcesi</td>
-        <td align=left>👋😊 Hi to you! I'm Volcaun TASH</td>
+        <td align=left>👋😊 Hi to you! I'm Volcaun TAUSH</td>
     </tr>
 </table>
 </div>  
